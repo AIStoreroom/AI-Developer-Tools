@@ -22,3 +22,13 @@ This repository contains a curated list of essential AI developer tools commonly
 9.[OpenCV](https://opencv.org): An open-source computer vision library with various tools for image and video processing.
 
 10.[IBM Watson Studio](https://www.ibm.com/products/watson-studio): A cloud-based integrated development environment (IDE) for AI and machine learning.
+
+## How to Contribute
+
+If you have suggestions for more AI developer tools to be added to this list, feel free to open a pull request. Let’s build a comprehensive resource to help the AI community discover and use the best tools for their projects!
+
+## License
+
+This repository is licensed under the [MIT License]().
+
+
